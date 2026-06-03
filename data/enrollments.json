@@ -1,0 +1,164 @@
+[
+  {
+    "customerId": "C1001",
+    "offerId": "OFF100",
+    "cardNumber": "371449635398001",
+    "enrollmentEffDate": "2025-01-01",
+    "enrollmentEndDate": "2025-12-31",
+    "insertDate": "2025-01-01",
+    "updateDate": "2025-01-01"
+  },
+  {
+    "customerId": "C1001",
+    "offerId": "OFF400",
+    "cardNumber": "371449635399001",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1001",
+    "offerId": "OFF500",
+    "cardNumber": "371449635398001",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1001",
+    "offerId": "OFF600",
+    "cardNumber": "371449635399001",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1001",
+    "offerId": "OFF700",
+    "cardNumber": "371449635398001",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1001",
+    "offerId": "OFF800",
+    "cardNumber": "371449635399001",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1002",
+    "offerId": "OFF200",
+    "cardNumber": "371449635398002",
+    "enrollmentEffDate": "2024-01-01",
+    "enrollmentEndDate": "2024-12-31",
+    "insertDate": "2024-01-01",
+    "updateDate": "2024-01-01"
+  },
+  {
+    "customerId": "C1002",
+    "offerId": "OFF400",
+    "cardNumber": "371449635399002",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1002",
+    "offerId": "OFF600",
+    "cardNumber": "371449635398002",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1002",
+    "offerId": "OFF800",
+    "cardNumber": "371449635399002",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1003",
+    "offerId": "OFF300",
+    "cardNumber": "371449635398003",
+    "enrollmentEffDate": "2022-01-01",
+    "enrollmentEndDate": "2022-12-31",
+    "insertDate": "2022-01-01",
+    "updateDate": "2022-01-01"
+  },
+  {
+    "customerId": "C1003",
+    "offerId": "OFF500",
+    "cardNumber": "371449635399003",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1003",
+    "offerId": "OFF700",
+    "cardNumber": "371449635398003",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1004",
+    "offerId": "OFF400",
+    "cardNumber": "371449635398004",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1004",
+    "offerId": "OFF500",
+    "cardNumber": "371449635399004",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1004",
+    "offerId": "OFF600",
+    "cardNumber": "371449635398004",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1004",
+    "offerId": "OFF700",
+    "cardNumber": "371449635399004",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "customerId": "C1004",
+    "offerId": "OFF800",
+    "cardNumber": "371449635398004",
+    "enrollmentEffDate": "2026-01-01",
+    "enrollmentEndDate": "2099-12-31",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  }
+]

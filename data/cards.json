@@ -1,0 +1,50 @@
+[
+  {
+    "cardNumber": "371449635398001",
+    "customerId": "C1001",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "cardNumber": "371449635399001",
+    "customerId": "C1001",
+    "insertDate": "2026-01-15",
+    "updateDate": "2026-01-15"
+  },
+  {
+    "cardNumber": "371449635398002",
+    "customerId": "C1002",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "cardNumber": "371449635399002",
+    "customerId": "C1002",
+    "insertDate": "2026-01-15",
+    "updateDate": "2026-01-15"
+  },
+  {
+    "cardNumber": "371449635398003",
+    "customerId": "C1003",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "cardNumber": "371449635399003",
+    "customerId": "C1003",
+    "insertDate": "2026-01-15",
+    "updateDate": "2026-01-15"
+  },
+  {
+    "cardNumber": "371449635398004",
+    "customerId": "C1004",
+    "insertDate": "2026-01-01",
+    "updateDate": "2026-01-01"
+  },
+  {
+    "cardNumber": "371449635399004",
+    "customerId": "C1004",
+    "insertDate": "2026-01-15",
+    "updateDate": "2026-01-15"
+  }
+]

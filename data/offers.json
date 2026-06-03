@@ -1,0 +1,66 @@
+[
+  {
+    "offerId": "OFF100",     
+    "offerStartDate": "2025-01-01",
+    "offerEndDate": "2025-12-31",
+    "ALBorCLB": "ALB",
+    "offerDesc": "Spend $100 get $10 credit",
+    "offerRule": "Spend 100 within 10 days"
+  },
+    {
+    "offerId": "OFF200",
+    "offerStartDate": "2024-01-01",
+    "offerEndDate": "2024-12-31",
+    "ALBorCLB": "CLB",
+    "offerDesc": "Spend $200 get $20 credit",
+    "offerRule": "Spend 200 within 20 days"
+  },
+    {
+    "offerId": "OFF300",
+    "offerStartDate": "2022-01-01",
+    "offerEndDate": "2022-12-31",
+    "ALBorCLB": "ALB",
+    "offerDesc": "Spend $300 get $30 credit",
+    "offerRule": "Spend 300 within 30 days"
+  },
+    {
+    "offerId": "OFF400",
+    "offerStartDate": "2026-01-01",
+    "offerEndDate": "2099-12-31",
+    "ALBorCLB": "CLB",
+    "offerDesc": "Spend $400 get $40 credit",
+    "offerRule": "Spend 400 within 40 days"
+  },
+    {
+    "offerId": "OFF500",
+    "offerStartDate": "2026-01-01",
+    "offerEndDate": "2099-12-31",
+    "ALBorCLB": "CLB",
+    "offerDesc": "Spend $300 get $30 credit",
+    "offerRule": "Spend 300 within 30 days"
+  },
+    {
+    "offerId": "OFF600",
+    "offerStartDate": "2026-01-01",
+    "offerEndDate": "2099-12-31",
+    "ALBorCLB": "ALB",
+    "offerDesc": "Spend $600 get $60 credit",
+    "offerRule": "Spend 600 within 60 days"
+  },
+    {
+    "offerId": "OFF700",
+    "offerStartDate": "2026-01-01",
+    "offerEndDate": "2099-12-31",
+    "ALBorCLB": "ALB",
+    "offerDesc": "Spend $700 get $70 credit",
+    "offerRule": "Spend 700 within 7 weeks"
+  },
+    {
+    "offerId": "OFF800",
+    "offerStartDate": "2026-01-01",
+    "offerEndDate": "2099-12-31",
+    "ALBorCLB": "ALB",
+    "offerDesc": "Spend $800 get $200 credit",
+    "offerRule": "Spend 800 within 3 months"
+  }
+]

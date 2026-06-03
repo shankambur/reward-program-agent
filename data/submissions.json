@@ -1,0 +1,82 @@
+[
+  {
+    "submissionId": "SUB0001",
+    "customerId": "C1001",
+    "cardNumber": "371449635399001",
+    "merchantId": "M001",
+    "transactionAmount": 450,
+    "transactionDate": "2026-06-01"
+  },
+  {
+    "submissionId": "SUB0002",
+    "customerId": "C1001",
+    "cardNumber": "371449635398001",
+    "merchantId": "M002",
+    "transactionAmount": 250,
+    "transactionDate": "2026-06-01"
+  },
+  {
+    "submissionId": "SUB0003",
+    "customerId": "C1002",
+    "cardNumber": "371449635399002",
+    "merchantId": "M003",
+    "transactionAmount": 850,
+    "transactionDate": "2026-06-01"
+  },
+  {
+    "submissionId": "SUB0004",
+    "customerId": "C1002",
+    "cardNumber": "371449635398002",
+    "merchantId": "M004",
+    "transactionAmount": 750,
+    "transactionDate": "2025-12-15"
+  },
+  {
+    "submissionId": "SUB0005",
+    "customerId": "C1003",
+    "cardNumber": "371449635398003",
+    "merchantId": "M005",
+    "transactionAmount": 350,
+    "transactionDate": "2026-06-01"
+  },
+  {
+    "submissionId": "SUB0006",
+    "customerId": "C1003",
+    "cardNumber": "371449635399003",
+    "merchantId": "M006",
+    "transactionAmount": 750,
+    "transactionDate": "2026-06-01"
+  },
+  {
+    "submissionId": "SUB0007",
+    "customerId": "C1004",
+    "cardNumber": "371449635398004",
+    "merchantId": "M007",
+    "transactionAmount": 900,
+    "transactionDate": "2026-06-01"
+  },
+  {
+    "submissionId": "SUB0008",
+    "customerId": "C1004",
+    "cardNumber": "371449635399004",
+    "merchantId": "M008",
+    "transactionAmount": 150,
+    "transactionDate": "2026-06-01"
+  },
+  {
+    "submissionId": "SUB0009",
+    "customerId": "C1001",
+    "cardNumber": "371449635398001",
+    "merchantId": "M999",
+    "transactionAmount": 150,
+    "transactionDate": "2025-12-31"
+  },
+  {
+    "submissionId": "SUB0010",
+    "customerId": "C1004",
+    "cardNumber": "371449635399004",
+    "merchantId": "M010",
+    "transactionAmount": 650,
+    "transactionDate": "2026-06-01"
+  }
+]

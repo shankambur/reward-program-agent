@@ -1,0 +1,26 @@
+[
+  {
+    "customerId": "C1001",
+    "firstName": "Milo",
+    "lastName": "S",
+    "emailId": "milo.s@email.com"
+  },
+  {
+    "customerId": "C1002",
+    "firstName": "Twinkle",
+    "lastName": "Sandy",
+    "emailId": "twinkle.s@email.com"
+  },
+  {
+    "customerId": "C1003",
+    "firstName": "Shank",
+    "lastName": "Mani",
+    "emailId": "shank.m@email.com"
+  },
+  {
+    "customerId": "C1004",
+    "firstName": "Sandy",
+    "lastName": "Chak",
+    "emailId": "sandy.c@email.com"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "creditId": "CR0001",
+    "submissionId": "SUB0001",
+    "eligibleId": "ELG0001",
+    "customerId": "C1001",
+    "offerId": "OFF400",
+    "cardNumber": "371449635399001",
+    "transactionAmount": 450,
+    "rewardAmount": 40,
+    "creditStatus": "ISSUED"
+  },
+  {
+    "creditId": "CR0002",
+    "submissionId": "SUB0001",
+    "eligibleId": "ELG0002",
+    "customerId": "C1001",
+    "offerId": "OFF500",
+    "cardNumber": "371449635399001",
+    "transactionAmount": 450,
+    "rewardAmount": 30,
+    "creditStatus": "ISSUED"
+  },
+  {
+    "creditId": "CR0003",
+    "submissionId": "SUB0003",
+    "eligibleId": "ELG0003",
+    "customerId": "C1002",
+    "offerId": "OFF800",
+    "cardNumber": "371449635399002",
+    "transactionAmount": 850,
+    "rewardAmount": 200,
+    "creditStatus": "PENDING"
+  },
+  {
+    "creditId": "CR0004",
+    "submissionId": "SUB0006",
+    "eligibleId": "ELG0004",
+    "customerId": "C1003",
+    "offerId": "OFF700",
+    "cardNumber": "371449635399003",
+    "transactionAmount": 750,
+    "rewardAmount": 70,
+    "creditStatus": "ISSUED"
+  },
+  {
+    "creditId": "CR0005",
+    "submissionId": "SUB0007",
+    "eligibleId": "ELG0005",
+    "customerId": "C1004",
+    "offerId": "OFF400",
+    "cardNumber": "371449635398004",
+    "transactionAmount": 900,
+    "rewardAmount": 40,
+    "creditStatus": "ISSUED"
+  },
+  {
+    "creditId": "CR0006",
+    "submissionId": "SUB0007",
+    "eligibleId": "ELG0006",
+    "customerId": "C1004",
+    "offerId": "OFF600",
+    "cardNumber": "371449635398004",
+    "transactionAmount": 900,
+    "rewardAmount": 60,
+    "creditStatus": "ISSUED"
+  },
+  {
+    "creditId": "CR0007",
+    "submissionId": "SUB0007",
+    "eligibleId": "ELG0007",
+    "customerId": "C1004",
+    "offerId": "OFF800",
+    "cardNumber": "371449635398004",
+    "transactionAmount": 900,
+    "rewardAmount": 200,
+    "creditStatus": "FAILED"
+  }
+]

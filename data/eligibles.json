@@ -1,0 +1,58 @@
+[
+  {
+    "eligibleId": "ELG0001",
+    "submissionId": "SUB0001",
+    "customerId": "C1001",
+    "offerId": "OFF400",
+    "cardNumber": "371449635399001",
+    "eligibleStatus": "QUALIFIED"
+  },
+  {
+    "eligibleId": "ELG0002",
+    "submissionId": "SUB0001",
+    "customerId": "C1001",
+    "offerId": "OFF500",
+    "cardNumber": "371449635399001",
+    "eligibleStatus": "QUALIFIED"
+  },
+  {
+    "eligibleId": "ELG0003",
+    "submissionId": "SUB0003",
+    "customerId": "C1002",
+    "offerId": "OFF800",
+    "cardNumber": "371449635399002",
+    "eligibleStatus": "QUALIFIED"
+  },
+  {
+    "eligibleId": "ELG0004",
+    "submissionId": "SUB0006",
+    "customerId": "C1003",
+    "offerId": "OFF700",
+    "cardNumber": "371449635399003",
+    "eligibleStatus": "QUALIFIED"
+  },
+  {
+    "eligibleId": "ELG0005",
+    "submissionId": "SUB0007",
+    "customerId": "C1004",
+    "offerId": "OFF400",
+    "cardNumber": "371449635398004",
+    "eligibleStatus": "QUALIFIED"
+  },
+  {
+    "eligibleId": "ELG0006",
+    "submissionId": "SUB0007",
+    "customerId": "C1004",
+    "offerId": "OFF600",
+    "cardNumber": "371449635398004",
+    "eligibleStatus": "QUALIFIED"
+  },
+  {
+    "eligibleId": "ELG0007",
+    "submissionId": "SUB0007",
+    "customerId": "C1004",
+    "offerId": "OFF800",
+    "cardNumber": "371449635398004",
+    "eligibleStatus": "QUALIFIED"
+  }
+]
