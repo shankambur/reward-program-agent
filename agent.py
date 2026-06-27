@@ -22,6 +22,32 @@ TOOL_REGISTRY = {
     }
 }
 
+def run_agent(question, context=None):
+    """
+    Execute the complete agent workflow and return
+    a natural language response.
+    """
+    if context is None:
+       context = {}
+
+    tool_calls = decide_tool(question)
+
+    if not tool_calls:
+       return "Sorry, I couldn't determine how to answer that question."
+
+    tool_result = execute_tool(
+        tool_calls[0],
+        context
+    )
+
+    answer = generate_tool_response(
+        question,
+        tool_result
+    )
+
+    return answer
+   
+
 def decide_tool(question):
     try:
 
@@ -123,7 +149,7 @@ def decide_tool(question):
                         HumanMessage(content=tool_user_prompt)
                     ]
                 )
-
+            print("response.content=",response.content)
             return json.loads(response.content)
     except Exception as e:
             print("Tool parser error:", e)

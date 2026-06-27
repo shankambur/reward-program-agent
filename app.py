@@ -2,11 +2,8 @@ import streamlit as st
 from dotenv import load_dotenv
 import os
 
-from agent import (
-    decide_tool,
-    execute_tool,
-    generate_tool_response
-)
+from agent import run_agent
+
 
 st.title("Reward Program Agent")
 
@@ -24,21 +21,14 @@ question = st.text_input(
     "Ask a reward program question"
 )
 
+
 if st.button("Submit"):
 
-    tool_calls = decide_tool(question)
-
-    if not tool_calls:
-        st.error("No suitable tool found")
+    if not question:
+        st.warning("Please enter a question.")
         st.stop()
 
-    tool_result = execute_tool(
-        tool_calls[0],
-        {}
-    )
+    with st.spinner("Investigating reward data..."):
+        answer = run_agent(question)
 
-    answer = generate_tool_response(
-        question,
-        tool_result
-    )
-    st.text(answer)
+    st.markdown(answer)
