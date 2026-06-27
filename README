@@ -1,0 +1,229 @@
+# Reward Program Agent
+
+An AI-powered Reward Program Investigation Assistant that uses an LLM to intelligently select business tools, investigate reward program data, and generate natural language responses.
+
+This project demonstrates how Large Language Models can orchestrate business logic through tool calling rather than relying only on Retrieval-Augmented Generation (RAG).
+
+---
+
+## Features
+
+- AI-powered tool selection
+- Customer investigation
+- Offer investigation
+- Submission investigation
+- Business service layer
+- Repository pattern
+- Natural language response generation
+- Streamlit web interface
+
+---
+
+## Architecture
+
+```
+                 Streamlit UI
+                      │
+                      ▼
+                run_agent()
+                      │
+          ┌───────────┴───────────┐
+          ▼                       ▼
+    decide_tool()         execute_tool()
+                                  │
+                                  ▼
+                              tools.py
+                                  │
+                                  ▼
+                     investigation_service.py
+                                  │
+                                  ▼
+                          Repository Layer
+                                  │
+                                  ▼
+                              JSON Data
+```
+
+---
+
+## Project Structure
+
+```
+reward-program-agent/
+│
+├── app.py
+├── agent.py
+├── tools.py
+│
+├── data/
+│
+├── repositories/
+│
+├── services/
+│
+├── test_agent.py
+├── test_repository.py
+├── test_services.py
+│
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## Technologies Used
+
+- Python
+- Streamlit
+- OpenAI API
+- JSON
+- Prompt Engineering
+- Tool Calling
+- Repository Pattern
+- Service Layer Architecture
+
+---
+
+## Agent Workflow
+
+```
+User Question
+      │
+      ▼
+AI Agent
+      │
+      ▼
+Tool Selection
+      │
+      ▼
+Business Tool Execution
+      │
+      ▼
+Business Service
+      │
+      ▼
+Repository
+      │
+      ▼
+Reward Program Data
+      │
+      ▼
+Natural Language Response
+```
+
+---
+
+## Sample Questions
+
+### Submission Investigation
+
+- Why did SUB0001 get credit?
+- Why didn't SUB0009 receive a reward?
+
+### Customer Investigation
+
+- Show customer C1001 details.
+- What rewards has customer C1002 received?
+
+### Offer Investigation
+
+- Show offer OFF600 details.
+- Which customers qualified for OFF800?
+
+---
+
+## Business Layers
+
+### Repository Layer
+
+Responsible for reading business data from JSON files.
+
+Repositories include:
+
+- Customer Repository
+- Offer Repository
+- Enrollment Repository
+- Submission Repository
+- Eligible Repository
+- Credit Repository
+
+---
+
+### Service Layer
+
+Contains business investigation logic.
+
+Implemented services:
+
+- investigate_submission()
+- investigate_customer()
+- investigate_offer()
+
+---
+
+### Agent Layer
+
+Responsible for:
+
+- Tool selection using an LLM
+- Tool execution
+- Natural language response generation
+
+---
+
+## Running the Application
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Configure environment
+
+Create a `.env` file containing:
+
+```
+OPENAI_API_KEY=your_api_key
+```
+
+### Run the application
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## Learning Outcomes
+
+This project demonstrates practical implementation of:
+
+- AI Agents
+- Tool Calling
+- Prompt Engineering
+- Business Service Architecture
+- Repository Pattern
+- LLM Orchestration
+- Streamlit Applications
+
+---
+
+## Future Enhancements
+
+- Multi-tool execution
+- Hybrid Agent (RAG + Tools)
+- Conversation memory
+- Database integration
+- Logging and monitoring
+- REST API
+- Authentication
+- Docker deployment
+
+---
+
+## Author
+
+Shank
+
+AI Engineer Learning Journey
