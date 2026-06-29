@@ -4,6 +4,10 @@ An AI-powered Reward Program Investigation Assistant that uses an LLM to intelli
 
 This project demonstrates how Large Language Models can orchestrate business logic through tool calling rather than relying only on Retrieval-Augmented Generation (RAG).
 
+Here is the github link
+
+https://github.com/shankambur/reward-program-agent
+
 ---
 
 ## Features
